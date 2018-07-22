@@ -16,7 +16,7 @@ Básicamente, puedes medir o controlar lo que desees, tan solo debes  basarte en
 Para comenzar, selecciona el dispositivo a utilizar a continuación. Dentro de las guías, podrás encontrar las configuraciones necesarias de cómo conectar ciertos sensores u actuadores a los dispositivos. Al igual de como manejar los valores de esos sensores con servicios en la nube llevando acabo una aplicación de necesidad para nosotros:
 
 * [Arduino](https://github.com/mariacarlinahernandez/nodebots-workshop/tree/master/SPA%20-%20Documentation/Dispositivos/Arduino)
-* [Electric Imp](https://github.com/mariacarlinahernandez/nodebots-workshop/tree/master/SPA%20-%20Documentation/Dispositivos/electric imp)
+* [Electric Imp](https://github.com/mariacarlinahernandez/nodebots-workshop/blob/master/SPA%20-%20Documentation/Dispositivos/electric%20imp/guia.md)
 
 Una vez te encuentres en la documentación relacionada con tu dispositivo, sigue cuidadosamente los pasos proporcionados.
 

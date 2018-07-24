@@ -57,15 +57,15 @@ El proceso de **BlinkUp** se puede llevar a cabo en dos maneras, 1) Utilizando e
 
 1. Desde el impCentral, selecciona el tercer icono ubicado en la parte izquierda de la plataforma para ingresar a **"Account Development Devices"**.
 
-![account development devices](https://github.com/mariacarlinahernandez/nodebots-workshop/tree/master/Images/account-development-devices.png)
+![account development devices](https://github.com/mariacarlinahernandez/nodebots-workshop/blob/master/Images/account-development-devices.png?raw=true)
 
 2. Selecciona **"BlinkUp"** desde el centro de la página:
 
-![blinkup](https://github.com/mariacarlinahernandez/nodebots-workshop/tree/master/Images/blinkup.png)
+![blinkup](https://github.com/mariacarlinahernandez/nodebots-workshop/blob/master/Images/blinkup.png?raw=true)
 
 3. La siguiente ventana es la encargada the conectar la tarjeta de Electric Imp a la red deseada. Asigna las credenciales de la red deseada a conectarse (**SSID y Contraseña**) para establecer la conexión con el dispositivo.
 
-![setup wifi](https://github.com/mariacarlinahernandez/nodebots-workshop/tree/master/Images/setup-wifi.png)
+![setup wifi](https://github.com/mariacarlinahernandez/nodebots-workshop/blob/master/Images/setup-wifi.png?raw=true)
 
 Para terminar, presiona **"BlinkUp"**.
 
@@ -73,11 +73,11 @@ Para terminar, presiona **"BlinkUp"**.
 
 **NOTA**: Este proceso tomará un poco de minutos, así que sea paciente 💻💛
 
-![impCentral BlinkUp](https://github.com/mariacarlinahernandez/nodebots-workshop/tree/master/Images/ElectricImp-BlinkUp.gif)
+![impCentral BlinkUp](https://github.com/mariacarlinahernandez/nodebots-workshop/blob/master/Images/ElectricImp-BlinkUp.gif?raw=true)
 
 Una vez la conexión se haya establecido correctamente debería recibir un mensaje satisfactorio **"Device is connected"**
 
-![blinkup](https://github.com/mariacarlinahernandez/nodebots-workshop/tree/master/Images/blinkup-connected.png)
+![blinkup](https://github.com/mariacarlinahernandez/nodebots-workshop/blob/master/Images/blinkup-connected.png?raw=true)
 
 #### BlinkUp desde Electric Imp App
 
@@ -102,7 +102,7 @@ En primer momento el dispositivo debería estar como **"unassigned"**, es decir 
 
 1. Para comenzar, crea un **producto**; el producto es el primer nivel para el contendor del proyecto. Para crearlo, solo presiona **"Create Product"**:
 
-![save product](https://github.com/mariacarlinahernandez/nodebots-workshop/tree/master/Images/save-product.png)
+![save product](https://github.com/mariacarlinahernandez/nodebots-workshop/blob/master/Images/save-product.png?raw=true)
 
 2. Luego, en la siguiente ventana asigna el **nombre** deseado para el **producto**. También, debes asignar el **nombre** del **"Development Device Group"** para crearlo.
 
@@ -110,23 +110,23 @@ En primer momento el dispositivo debería estar como **"unassigned"**, es decir 
 
 Para esta guia asignaremos **"NodeBots"** como nombre de producto, y **"enviar tweet"** cómo Development Device Group. Tal cual se muestra a continuación:
 
-![product creation](https://github.com/mariacarlinahernandez/nodebots-workshop/tree/master/Images/product-creation.png)
+![product creation](https://github.com/mariacarlinahernandez/nodebots-workshop/blob/master/Images/product-creation.png?raw=true)
 
 
 Para guardar los cambios realizados, presione el botón azul "Create". Una vez presionado, recibirás un mensaje satisfactorio.
 
 4. Ahora con el producto ya creado y configurado es hora de asignar los dispositivos deseados al producto. Para asignar el dispositivo, presiona el botón azul **"Assign Devices"** ubicado en la parte baja de la página:
 
-![assign device](https://github.com/mariacarlinahernandez/nodebots-workshop/tree/master/Images/assign-device.png)
+![assign device](https://github.com/mariacarlinahernandez/nodebots-workshop/blob/master/Images/assign-device.png?raw=true)
 
 
 Selecciona el dispositivo(s) deseado a desplegar:
 
-![assign device 1](https://github.com/mariacarlinahernandez/nodebots-workshop/tree/master/Images/assign-device-1.png)
+![assign device 1](https://github.com/mariacarlinahernandez/nodebots-workshop/blob/master/Images/assign-device-1.png?raw=true)
 
 Luego, los dispositivo(s) asignados deberán aparecer en la parte baja izquierda de la página
 
-![assign device 2](https://github.com/mariacarlinahernandez/nodebots-workshop/tree/master/Images/assign-device-2.png)
+![assign device 2](https://github.com/mariacarlinahernandez/nodebots-workshop/blob/master/Images/assign-device-2.png?raw=true)
 
 7. Ahora, todo se encuentra configurado para comenzar a programar el dispositivo Electric Imp para hablar con otros servicios. Antes de comenzar verifiquemos el workflow del impCentral:
 
@@ -136,7 +136,7 @@ Luego, los dispositivo(s) asignados deberán aparecer en la parte baja izquierda
 
 * **Log window**: Le proporciona los registros en tiempo real del comportamiento presentado en el imp kit utilizado.
 
-![imp central](https://github.com/mariacarlinahernandez/nodebots-workshop/tree/master/Images/impcentral.png)
+![imp central](https://github.com/mariacarlinahernandez/nodebots-workshop/blob/master/Images/impcentral.png?raw=true)
 
 Para obtener una explicación detallada de impCentral, visite la página de [documentación de Electric Imp](https://developer.electricimp.com/gettingstarted/explorer/agents).
 
@@ -148,15 +148,15 @@ Para obtener una explicación detallada de impCentral, visite la página de [doc
 
 3. Luego, en la ventana a continuación completa los campos vacíos con la información requerida:
 
-![twitter app creation](https://github.com/mariacarlinahernandez/nodebots-workshop/tree/master/Images/twitter-app-creation.png)
+![twitter app creation](https://github.com/mariacarlinahernandez/nodebots-workshop/blob/master/Images/twitter-app-creation.png?raw=true)
 
 Una vez la aplicación se cree correctamente, deberás tener acceso a la siguiente ventana:
 
-![twitter app](https://github.com/mariacarlinahernandez/nodebots-workshop/tree/master/Images/twitterapp.png)
+![twitter app](https://github.com/mariacarlinahernandez/nodebots-workshop/blob/master/Images/twitterapp.png?raw=true)
 
 4. Ahora con la aplicación creada, debes tener acceso a las llaves necesarias para poder establecer la comunicación desde nuestro dispositivo. Para verificar que tienes el acceso, dirígete a la pestaña "**Keys and Access Tokens**".
 
-![twitter keys](https://github.com/mariacarlinahernandez/nodebots-workshop/tree/master/Images/twitter-keys.png)
+![twitter keys](https://github.com/mariacarlinahernandez/nodebots-workshop/blob/master/Images/twitter-keys.png?raw=true)
 
 Estas credenciales deben ser asignadas posteriormente en el código a cargar en el dispositivo.
 
@@ -279,11 +279,11 @@ const TOKEN_SECRET = "rrTIiTF8qgdwS7FQfYf9t2XSSKFwVjS7FQfYf9t2X0WQ";
 
 4. Con las credenciales actualizadas, debe verificar si los códigos incluidos están en el formato correcto. Para verificar el código, simplemente presione el botón **"Check"**.
 
-![check code imp](https://github.com/mariacarlinahernandez/nodebots-workshop/tree/master/Images/check-code.png)
+![check code imp](https://github.com/mariacarlinahernandez/nodebots-workshop/blob/master/Images/check-code.png?raw=true)
 
 5. Con el código verificado, es hora de correr el código en el dispositivo Electric Imp. Para correr y descargar el código, debes presionar el botón "Build and Force Reset"
 
-![build code imp](https://github.com/mariacarlinahernandez/nodebots-workshop/tree/master/Images/build-save-code.png)
+![build code imp](https://github.com/mariacarlinahernandez/nodebots-workshop/blob/master/Images/build-save-code.png?raw=true)
 
 6. Una vez el código se haya subido correctamente podrás observar los registros con el valor actual del sensor junto al registro del tweet a enviar.
 
@@ -291,15 +291,15 @@ const TOKEN_SECRET = "rrTIiTF8qgdwS7FQfYf9t2XSSKFwVjS7FQfYf9t2X0WQ";
 
 Como pudieron observar, luego de seguir los pasos mencionados anteriormente fuimos capaces de conectar el mundo físico con el mundo digital. El sensor de ultrasonido se encarga de tomar lecturas del mundo físico (las cuales son  útiles distintos casos de uso) mientras que el dispositivo de Electric Imp analiza las lecturas del sensor, y realiza el envío de la misma a Twitter por medio de una API.
 
-![tweet](https://github.com/mariacarlinahernandez/nodebots-workshop/tree/master/Images/tweet.png)
+![tweet](https://github.com/mariacarlinahernandez/nodebots-workshop/blob/master/Images/tweet.png?raw=true)
 
 # Resultados
 
 En mi caso, decidí hacer uso del sensor para saber cuando mi gata se encuentra cerca del comedero. Esto me ayudará a monitorear las veces que se acerca a el comedero y para cerciorarme que se está alimentando correctamente. Para hacer una aplicación de otra escala con el mismo fin, se deberían agregar más sensores que me permitan saber no tan solo si el gato se acerco a el comedero, si no que también nos permita conocer la cantidad exacta de comida que comió o hasta la cantidad de agua.
 
 
-![comedero](https://github.com/mariacarlinahernandez/nodebots-workshop/tree/master/Images/comedero.jpeg)
+![comedero](https://github.com/mariacarlinahernandez/nodebots-workshop/blob/master/Images/comedero.jpeg?raw=true)
 
-![comedero y bagheera](https://github.com/mariacarlinahernandez/nodebots-workshop/tree/master/Images/comedero-bagheera.jpeg)
+![comedero y bagheera](https://github.com/mariacarlinahernandez/nodebots-workshop/blob/master/Images/comedero-bagheera.jpeg?raw=true)
 
 
